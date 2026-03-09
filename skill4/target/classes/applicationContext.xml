@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+       http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="student" class="com.skill4.Student">
+
+        <constructor-arg index="0" value="101"/>
+        <constructor-arg index="1" value="Rahul"/>
+        <constructor-arg index="2" value="Java"/>
+        <constructor-arg index="3" value="2"/>
+
+    </bean>
+
+</beans>
