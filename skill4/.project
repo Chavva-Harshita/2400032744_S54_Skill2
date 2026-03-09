@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
-	<name>skill5</name>
-=======
-	<name>stores</name>
->>>>>>> cd59712b840284789da4d6ebc46882daf2bdc092
+	<name>skill4</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -24,18 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
-<<<<<<< HEAD
-=======
-	<filteredResources>
-		<filter>
-			<id>1772738901037</id>
-			<name></name>
-			<type>30</type>
-			<matcher>
-				<id>org.eclipse.core.resources.regexFilterMatcher</id>
-				<arguments>node_modules|\.git|__CREATED_BY_JAVA_LANGUAGE_SERVER__</arguments>
-			</matcher>
-		</filter>
-	</filteredResources>
->>>>>>> cd59712b840284789da4d6ebc46882daf2bdc092
 </projectDescription>
